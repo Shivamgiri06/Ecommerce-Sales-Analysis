@@ -12,25 +12,26 @@ This project presents a comprehensive dashboard created using Python and Jupyter
 ## Analysis Questions Addressed
 1. **Monthly Sales**:
    - Calculate monthly sales and identify the months with the highest and lowest sales.
-    ![Dashboard Screenshot 1](dashboardg_imae_1.png)
+    ![Dashboard Screenshot 1](report_image_1.png)
 2. **Category Analysis**:
    - Analyze sales based on product categories to determine the best and worst performers.
-    ![Dashboard Screenshot 2](dashboard_image_2.png)
+    ![Dashboard Screenshot 2](report_image_2.png)
 3. **Sub-Category Analysis**:
    - Perform a detailed analysis of sub-categories to identify key insights.
-    ![Dashboard Screenshot 3](dashboard_image_3.png)
+    ![Dashboard Screenshot 3](report_image_3.png)
 4. **Monthly Profit Trends**:
    - Determine which months had the highest profit.
-     ![Dashboard Screenshot 4](dashboard_image_4.png)
+     ![Dashboard Screenshot 4](report_image_4.png)
 5. **Category and Sub-Category Profit Analysis**:
    - Evaluate the profitability of each category and sub-category.
-    ![Dashboard Screenshot 5](dashboard_image_5.png)
+    ![Dashboard Screenshot 5](report_image_5.png)
+    ![Dashboard Screenshot 5](report_image_5(2).png)
 6. **Customer Segment Analysis**:
    - Assess sales and profit distribution across various customer segments.
-    ![Dashboard Screenshot 6](dashboard_image_6.png)
+    ![Dashboard Screenshot 6](report_image_6.png)
 7. **Sales-to-Profit Ratio**:
    - Analyze the efficiency of sales in generating profit.
-   ![Dashboard Screenshot 7](dashboard_image_7.png)
+   ![Dashboard Screenshot 7](report_image_7.png)
 
 ## How to Use
 1. Clone this repository to your local machine.
