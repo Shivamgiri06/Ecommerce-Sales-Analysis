@@ -1,6 +1,6 @@
 # E-Commerce Sales Analysis Dashboard
 
-This project presents a comprehensive Power BI dashboard that analyzes the performance of an e-commerce store across various metrics such as sales, profit, product categories, and customer segments. The analysis is designed to provide actionable insights for decision-making.
+This project presents a comprehensive dashboard created using Python and Jupyter Notebook, analyzing the performance of an e-commerce store across various metrics such as sales, profit, product categories, and customer segments. The analysis is designed to provide actionable insights for decision-making.
 
 ## Features
 - **Monthly Sales Analysis**: Identifies the months with the highest and lowest sales.
@@ -34,13 +34,14 @@ This project presents a comprehensive Power BI dashboard that analyzes the perfo
 
 ## How to Use
 1. Clone this repository to your local machine.
-2. Open the Power BI file to explore the dashboard.
+2. Open the Jupyter Notebook file to explore the analysis.
 3. Review the detailed visualizations and insights.
 
 ## Technologies Used
-- **Power BI**: For creating the interactive dashboard.
-- **Data Cleaning and Transformation**: Performed using Power Query.
-- **Visualization**: Charts, graphs, and tables for easy interpretation of data.
+**Python:** For data analysis and visualization.
+**Jupyter Notebook:** For creating and sharing the dashboard.
+**Pandas and NumPy:** For data manipulation and analysis.
+**Matplotlib and Seaborn:** For creating visualizations.
 
 ## Acknowledgements
 Special thanks to the e-commerce dataset and resources used for building this project.
