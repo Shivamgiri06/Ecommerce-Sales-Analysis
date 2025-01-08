@@ -38,10 +38,10 @@ This project presents a comprehensive dashboard created using Python and Jupyter
 3. Review the detailed visualizations and insights.
 
 ## Technologies Used
-**Python:** For data analysis and visualization.
-**Jupyter Notebook:** For creating and sharing the dashboard.
-**Pandas and NumPy:** For data manipulation and analysis.
-**Matplotlib and Seaborn:** For creating visualizations.
+- **Python:** For data analysis and visualization.
+- **Jupyter Notebook:** For creating and sharing the dashboard.
+- **Pandas and NumPy:** For data manipulation and analysis.
+- **Matplotlib and Seaborn:** For creating visualizations.
 
 ## Acknowledgements
 Special thanks to the e-commerce dataset and resources used for building this project.
