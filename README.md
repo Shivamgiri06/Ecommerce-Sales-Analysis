@@ -42,9 +42,6 @@ This project presents a comprehensive Power BI dashboard that analyzes the perfo
 - **Data Cleaning and Transformation**: Performed using Power Query.
 - **Visualization**: Charts, graphs, and tables for easy interpretation of data.
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and share it.
-
 ## Acknowledgements
 Special thanks to the e-commerce dataset and resources used for building this project.
 
